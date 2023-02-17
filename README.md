@@ -12,4 +12,5 @@ Run `make` in the `WL` folder.
 - Parameter `k` must be >= 1
 - selector string must be "tuples" or "sets"
 
-# Test
+# Instances
+Instances are partitioned by graph type, order and number of edges. For instance, all subfolders in the `Instances/StronglyRegular` folder contains strongly regular graphs with equal parameters (and, hence, not distinguishable by WL-2).
