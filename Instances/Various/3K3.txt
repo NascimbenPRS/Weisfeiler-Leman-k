@@ -1,0 +1,12 @@
+c FILE: G1
+c Triple K-3
+p edge 9 9
+e 1 2
+e 2 3
+e 3 1
+e 4 5
+e 5 6
+e 6 4
+e 7 8
+e 8 9
+e 9 7

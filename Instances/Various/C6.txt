@@ -1,0 +1,9 @@
+c FILE: G2
+c 6-node cycle
+p edge 6 6
+e 1 2
+e 1 6
+e 2 3
+e 3 4
+e 4 5
+e 5 6
